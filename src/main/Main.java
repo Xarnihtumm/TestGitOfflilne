@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 System.out.println("Hello World");
 System.out.println("Change version-git");
+System.out.println("Hello Git and Test SSH");
 	}
 
 }
